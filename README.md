@@ -4,7 +4,9 @@
 
 ## 目录/文章连接
 
- 
 #### DeepIntoUnslider
 [深入理解unslider.js源码](http://liuyanwei.jumppo.com/2015/08/29/go-deep-into-unsilder.js.html)
+ 
+#### Handlebars
+[Handlebars 用法](http://liuyanwei.jumppo.com/2015/12/03/fe-js-handlebars.html)
  

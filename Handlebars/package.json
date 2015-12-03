@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "description": "",
+  "main": "n",
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "",
+  "license": " ",
+  "devDependencies": {
+     
+  },
+  "scripts": {
+    "js-build": "cd app/ && bower install",
+    "pj-build": "npm install",
+    "start": "cd app/ && http-server -a 0.0.0.0 -p 8000",
+    "appInit": "npm run pj-build && npm run js-build"
+  }
+}

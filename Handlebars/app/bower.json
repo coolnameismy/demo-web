@@ -1,0 +1,24 @@
+{
+  "name": "hello",
+  "authors": [
+    "coolnameismy <coolnameismy@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.0",
+    "bootstrap": "3.0",
+    "handlebars": "~4.0.5"
+  }
+}
