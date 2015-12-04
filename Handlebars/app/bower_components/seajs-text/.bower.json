@@ -1,0 +1,15 @@
+{
+  "name": "seajs-text",
+  "homepage": "https://github.com/seajs/seajs-text",
+  "version": "1.1.1",
+  "_release": "1.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.1.1",
+    "commit": "9cb5bafe298b052d464b603bdff5f4d3af1867b0"
+  },
+  "_source": "git://github.com/seajs/seajs-text.git",
+  "_target": "~1.1.1",
+  "_originalSource": "seajs-text",
+  "_direct": true
+}

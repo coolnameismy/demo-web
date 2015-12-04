@@ -11,7 +11,7 @@
   "author": "",
   "license": " ",
   "devDependencies": {
-     
+    "seajs": "^3.0.2"
   },
   "scripts": {
     "js-build": "cd app/ && bower install",
