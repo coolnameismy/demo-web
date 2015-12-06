@@ -4,36 +4,29 @@
 	<meta charset="UTF-8">
 	<title>seajs and handlebars</title>
 
+	<script type="text/javascript" src="bower_components/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="bower_components/handlebars/handlebars.js"></script>
 	<script type="text/javascript"  src="bower_components/seajs/dist/sea.js"></script>
 	<script type="text/javascript" src="bower_components/seajs-text/seajs-text-1.1.1/dist/seajs-text.js"></script>
 
 </head>
 <body>
 	
-
-
-
-
-
  <script type="text/javascript">
-
+	
  	// seajs 的简单配置
  	seajs.config({
  	  base: "",
  	  alias: {
  	    "jquery": "../bower_components/jquery/jquery.seejs.min.js",
- 	    "handlebars":"../bower_components/handlebars/handlebars.js"
+ 	    "handlebars":"../bower_components/handlebars/handlebars.seajs.min.js"
  	  }
- 	})
+ 	});
 
  	// 加载入口模块
  	seajs.use("./scripts/main.js");
 
  </script>
 
-
- 
-
-	
 </body>
 </html>
