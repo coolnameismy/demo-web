@@ -3,10 +3,7 @@ define(function(require, exports, module) {
 
 	// 通过 require 引入依赖
 	// var $ = require('jquery');
-	// var Handlebars = require('handlebars');
 	var Boxes = require('boxes');
-	// var demoTpl = require('../component/Tpl/demoList.handlebars');
- 	// console.log(boxes);
  	
 	$(function(){
 
@@ -16,7 +13,5 @@ define(function(require, exports, module) {
 			console.log("clicked");
 		};
 	});
-
-
 
 });

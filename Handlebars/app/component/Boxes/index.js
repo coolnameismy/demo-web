@@ -7,7 +7,6 @@ define(function(require, exports, module) {
 	var Handlebars = require('handlebars');
 	
 
-
 	var box  = {
 		init:function(){
 			return box;
