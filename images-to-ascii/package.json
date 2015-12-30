@@ -1,0 +1,19 @@
+{
+  "name": "images-to-ascii-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "   ",
+  "devDependencies": {
+    "couleurs": "^5.2.0",
+    "gm": "^1.21.1",
+    "image-to-ascii": "^2.2.0",
+    "pngjs": "^2.2.0",
+    "request": "^2.67.0",
+    "tmp": "0.0.28"
+  }
+}
