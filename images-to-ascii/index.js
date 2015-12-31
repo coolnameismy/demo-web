@@ -11,7 +11,7 @@ var __dirname = "./images/";
 // });
 
 
-ImageToAscii(__dirname + "1.png", function(err, converted) {
+ImageToAscii(__dirname + "5.jpg", function(err, converted) {
 	console.log("1");
     console.log(err || converted);
 });
