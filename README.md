@@ -1,6 +1,8 @@
+## 说明
 
-#  这个是我的博客文章内容的web相关 demo代码
-> blog地址:http://liuyanwei.jumppo.com
+这个是我的博客文章内容的web前端demo,对应的blog：[刘彦玮的技术博客](http://liuyanwei.jumppo.com/)
+
+博客中的demo：[ios-demo](https://github.com/coolnameismy/demo) | [web前端demo](https://github.com/coolnameismy/demo-web)
 
 ## 目录/文章连接
 
@@ -10,6 +12,5 @@
 #### Handlebars
 [Handlebars 用法](http://liuyanwei.jumppo.com/2015/12/03/fe-js-handlebars.html)
  
-
-## [博客ios-demo地址](https://github.com/coolnameismy/demo)
+ 
 
