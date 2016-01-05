@@ -12,5 +12,7 @@
 #### Handlebars
 [Handlebars 用法](http://liuyanwei.jumppo.com/2015/12/03/fe-js-handlebars.html)
  
+#### images-to-ascii
+[那些好玩的nodejs插件 - 把图片转为ascii](http://liuyanwei.jumppo.com/2015/12/31/playwith-imageToAscii.html)
  
 
